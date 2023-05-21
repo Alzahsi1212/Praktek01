@@ -15,5 +15,7 @@ public class MahasiswaAksi {
         Ansari.nama="M. Alzahsi Ansari";
         Ansari.NPM="2110010399";
         Ansari.IPK=3.4;
+        
+        Ansari.cetakInfo();
     }
 }
